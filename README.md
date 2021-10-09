@@ -24,3 +24,4 @@ Uses Quick Sort which causes the solution to have O(n*logn) time complexity and 
 ### Improvement Ideas
 The code could be changed to assume that the input arrays are sorted and distinct, then throw an error once it detects that they aren't.
 <br/>Or, assume that the input arrays are sorted and distinct, then fix them once it detects that they aren't. The downside to this is the uncertainty in time and space complexity which could cause problems in some circumstances.
+<br/>The input arrays could be validated to not be empty, though this may not be necessary as they are guaranteed to not be empty in the problem statement.
