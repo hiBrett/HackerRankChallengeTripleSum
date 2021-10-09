@@ -1,4 +1,4 @@
-## My solution to the HackerRank challenge Triple Sum
+## My solution to the HackerRank challenge "Triple Sum"
 
 Challenge Source: https://www.hackerrank.com/challenges/triple-sum/problem
 
