@@ -6,7 +6,7 @@ Challenge Source: https://www.hackerrank.com/challenges/triple-sum/problem
 Find how many distinct triplets (left, middle, right) there are between the three arrays (left, middle, right), where the middle element is the greatest in each triplet.
 
 #### Solution
-The strategy is to sort the three arrays. That way each middle value will be compatible with all previously found triplets.
+My strategy is to sort the three arrays. That way each middle value will be compatible with all previously found triplets.
 
 ### Steps
 1. Sort the arrays.
